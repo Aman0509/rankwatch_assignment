@@ -1,0 +1,9 @@
+common_link_finder.py
+
+i.Description
+The scope is to build a distributed scalable process of find common URL and their anchor texts in
+N number of URLs, subjected to max limit of upto 15 URLs.
+
+ii. Requirements
+- This script is written in Python version 3.9
+- URLs needs to be processed must be in a text file format
